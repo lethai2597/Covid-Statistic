@@ -1,6 +1,6 @@
 const covid = document.querySelector('#covid')
 
-const loading = `<div class="col-span-3 w-full flex items-center justify-center text-3xl"><img class="w-56" src="loading.gif" /></div>`
+const loading = `<div class="col-span-3 w-full flex items-center justify-center text-3xl"><img class="w-56" src="https://covid-statistic-hust.herokuapp.com/loading.gif" /></div>`
 
 let global, countries, defaultCountries = null
 
